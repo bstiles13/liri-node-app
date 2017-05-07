@@ -54,3 +54,83 @@ Artist: Harry Styles
 Track: Sign of the Times
 Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
 Album: Sign of the Times
+
+Artist: Backstreet Boys
+Track: I Want It That Way
+Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Track: I Want It That Way
+Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Artist: Harry Styles
+Track: Sign of the Times
+Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+Artist: Harry Styles
+Track: Sign of the Times
+Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+Artist: Harry Styles
+Track: Sign of the Times
+Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+Artist: William Ryan Fritch
+Track: Undefined
+Preview: https://open.spotify.com/track/3l3Wh4KRKll7nFdpCFfDe5
+Album: New Words for Old Wounds
+
+Artist: Charlie Puth
+Track: We Don't Talk Anymore (feat. Selena Gomez)
+Preview: https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0
+Album: Nine Track Mind
+
+Artist: Charlie Puth
+Track: We Don't Talk Anymore (feat. Selena Gomez)
+Preview: https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0
+Album: Nine Track Mind
+
+Artist: Harry Styles
+Track: Sign of the Times
+Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+Artist: Harry Styles
+Track: Sign of the Times
+Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+Artist: Ace of Base
+Track: The Sign
+Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+
+Artist: K-Skittle
+Track: Choice (feat. The Original Artist) Bonus Track
+Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
+Album: The Original Artist LP 2
+
+Artist: K-Skittle
+Track: Choice (feat. The Original Artist) Bonus Track
+Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
+Album: The Original Artist LP 2
+
+Artist: K-Skittle
+Track: Choice (feat. The Original Artist) Bonus Track
+Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
+Album: The Original Artist LP 2
+
+Artist: Trouble Andrew
+Track: Ghost
+Preview: https://open.spotify.com/track/33mGTNp5Hce0jIyLpVGMNG
+Album: The Unpopular Pop Artist
+
+Artist: Amoda
+Track: Monster
+Preview: https://open.spotify.com/track/1DrrmVwOUCEwWwxNh1dgkr
+Album: Artist Collection

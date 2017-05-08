@@ -1,28 +1,6 @@
 LIRI Activity Log:
 
-Tweet #1 - Fri May 05 01:47:09 +0000 2017
-[hiding in pantry from murderer]
-[quietly tries to open bag of chips]
-
-Tweet #2 - Thu May 04 21:23:56 +0000 2017
-I love #StarWarsDay
-
-Title: Superbad
-Year: 2007
-IMDB Rating: 7.6
-Country: USA
-Language: English
-Plot: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
-Actors: Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader
-Rotten Tomatoes: 88%
-
-Tweet #1 - Fri May 05 01:47:09 +0000 2017
-[hiding in pantry from murderer]
-[quietly tries to open bag of chips]
-
-Tweet #2 - Thu May 04 21:23:56 +0000 2017
-I love #StarWarsDay
-
+==============================================
 Tweet #1 - Sun May 07 16:52:55 +0000 2017
 Let the tweet flow through you
 
@@ -35,180 +13,9 @@ Tweet #3 - Fri May 05 01:47:09 +0000 2017
 
 Tweet #4 - Thu May 04 21:23:56 +0000 2017
 I love #StarWarsDay
+==============================================
 
-Title: Waterworld
-Year: 1995
-IMDB Rating: 6.1
-Country: USA
-Language: English
-Plot: In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw "smokers," and reluctantly helps a woman and a young girl try to find dry land.
-Actors: Kevin Costner, Chaim Jeraffi, Rick Aviles, R.D. Call
-Rotten Tomatoes: 42%
-
-Artist: The Weeknd
-Track: Party Monster
-Preview: https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt
-Album: Starboy
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Backstreet Boys
-Track: I Want It That Way
-Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-Album: The Hits--Chapter One
-
-Artist: Backstreet Boys
-Track: I Want It That Way
-Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-Album: The Hits--Chapter One
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: William Ryan Fritch
-Track: Undefined
-Preview: https://open.spotify.com/track/3l3Wh4KRKll7nFdpCFfDe5
-Album: New Words for Old Wounds
-
-Artist: Charlie Puth
-Track: We Don't Talk Anymore (feat. Selena Gomez)
-Preview: https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0
-Album: Nine Track Mind
-
-Artist: Charlie Puth
-Track: We Don't Talk Anymore (feat. Selena Gomez)
-Preview: https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0
-Album: Nine Track Mind
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Ace of Base
-Track: The Sign
-Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
-
-Artist: K-Skittle
-Track: Choice (feat. The Original Artist) Bonus Track
-Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
-Album: The Original Artist LP 2
-
-Artist: K-Skittle
-Track: Choice (feat. The Original Artist) Bonus Track
-Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
-Album: The Original Artist LP 2
-
-Artist: K-Skittle
-Track: Choice (feat. The Original Artist) Bonus Track
-Preview: https://open.spotify.com/track/4sk0nOr8BsLZmRpqQO9BDc
-Album: The Original Artist LP 2
-
-Artist: Trouble Andrew
-Track: Ghost
-Preview: https://open.spotify.com/track/33mGTNp5Hce0jIyLpVGMNG
-Album: The Unpopular Pop Artist
-
-Artist: Amoda
-Track: Monster
-Preview: https://open.spotify.com/track/1DrrmVwOUCEwWwxNh1dgkr
-Album: Artist Collection
-
-Title: Logan
-Year: 2017
-IMDB Rating: 8.4
-Country: USA, Canada, Australia
-Language: English, Spanish
-Plot: In the near future, a weary Logan cares for an ailing Professor X somewhere on the Mexican border. However, Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
-Actors: Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
-Rotten Tomatoes: 92%
-
-Title: Logan
-Year: 2017
-IMDB Rating: 8.4
-Country: USA, Canada, Australia
-Language: English, Spanish
-Plot: In the near future, a weary Logan cares for an ailing Professor X somewhere on the Mexican border. However, Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
-Actors: Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
-Rotten Tomatoes: 92%
-
-Title: Logan
-Year: 2017
-IMDB Rating: 8.4
-Country: USA, Canada, Australia
-Language: English, Spanish
-Plot: In the near future, a weary Logan cares for an ailing Professor X somewhere on the Mexican border. However, Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
-Actors: Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
-Rotten Tomatoes: 92%
-
-Title: Logan
-Year: 2017
-IMDB Rating: 8.4
-Country: USA, Canada, Australia
-Language: English, Spanish
-Plot: In the near future, a weary Logan cares for an ailing Professor X somewhere on the Mexican border. However, Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
-Actors: Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook
-Rotten Tomatoes: 92%
-
-Artist: Twisted Sister
-Track: We're Not Gonna Take It
-Preview: https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh
-Album: Stay Hungry
-
-Artist: Harry Styles
-Track: Sign of the Times
-Preview: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
-Album: Sign of the Times
-
-Artist: Ace of Base
-Track: The Sign
-Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
-Album: The Sign (US Album) [Remastered]
-
-Artist: Amoda
-Track: Monster
-Preview: https://open.spotify.com/track/1DrrmVwOUCEwWwxNh1dgkr
-Album: Artist Collection
-
-Artist: The Andrews Sisters
-Track: Yes, My Darling Daughter
-Preview: https://open.spotify.com/track/5Ix7n7uDrNEieNqgsj7yR9
-Album: Musical Moments To Remember: The Andrews Sisters, Vol. 1
-
-Tweet #1 - Sun May 07 16:52:55 +0000 2017
-Let the tweet flow through you
-
-Tweet #2 - Sun May 07 16:51:46 +0000 2017
-Houston we have a tweet
-
-Tweet #3 - Fri May 05 01:47:09 +0000 2017
-[hiding in pantry from murderer]
-[quietly tries to open bag of chips]
-
-Tweet #4 - Thu May 04 21:23:56 +0000 2017
-I love #StarWarsDay
-
+==============================================
 Title: Cutthroat Island
 Year: 1995
 IMDB Rating: 5.6
@@ -217,8 +24,11 @@ Language: English
 Plot: A female pirate and her companion race against their rivals to find a hidden island that contains a fabulous treasure.
 Actors: Geena Davis, Matthew Modine, Frank Langella, Maury Chaykin
 Rotten Tomatoes: 38%
+==============================================
 
+==============================================
 Artist: Richard Tauber
 Track: A Perfect Day
 Preview: https://open.spotify.com/track/3Rfz9DzlJm7PkAXJYG5tc9
 Album: The Richard Tauber Collection, Vol. 22: English Songs & Ballads III (Recorded 1937-1943)
+==============================================

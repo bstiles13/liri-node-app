@@ -8,10 +8,12 @@ var name = process.argv[3];
 var request = require('request');
 var fs = require('fs');
 
+var line = "==============================================";
+
 //If the user calls "do-what-it-says" at argv[2] in the command line, the random.txt file will determine the api
 if (search === "do-what-it-says") {
     fs.readFile('random.txt', 'utf8', function(err, res) {
-        console.log(res);
+        // console.log(res);
         var split = res.split(",");
         search = split[0];
         name = split[1];
@@ -75,7 +77,7 @@ function spotify() {
         console.log(album);
 
         //Appending data to log.txt
-        fs.appendFile('log.txt', '\n' + artist + '\n' + track + '\n' + preview + '\n' + album + '\n');
+        fs.appendFile('log.txt', '\n' + line + '\n' + artist + '\n' + track + '\n' + preview + '\n' + album + '\n' + line + '\n');
     })
 }
 
@@ -115,7 +117,7 @@ function movie() {
         console.log(rotten);
 
         //Appending data to log.txt
-        fs.appendFile('log.txt', '\n' + title + '\n' + year + '\n' + rating + '\n' + country + '\n' + language + '\n' + plot + '\n' + actors + '\n' + rotten + '\n');
+        fs.appendFile('log.txt', '\n' + line + '\n' + title + '\n' + year + '\n' + rating + '\n' + country + '\n' + language + '\n' + plot + '\n' + actors + '\n' + rotten + '\n' + line + '\n');
     })
 
 
@@ -138,6 +140,8 @@ function twitter() {
         if (!error) {
             // console.log(tweets);
             //Console logging and appending all tweets under 'brandonthecoder' up to 20 tweet limit
+            console.log(line);
+            fs.appendFile('log.txt', '\n' + line);
             for (var i = 0; i < Math.min(tweets.length, 19); i++) {
                 var date = 'Tweet #' + (i + 1) + ' - ' + tweets[i].created_at;
                 var tweet = tweets[i].text;
@@ -146,6 +150,8 @@ function twitter() {
                 console.log(tweet);
                 fs.appendFile('log.txt', '\n' + date + '\n' + tweet + '\n');
             }
+            console.log(line);
+            fs.appendFile('log.txt', line + '\n');
         }
     });
 

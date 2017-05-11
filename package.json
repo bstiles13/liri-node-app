@@ -4,8 +4,11 @@
   "description": "",
   "main": "liri.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node liri.js"
+    "start":"node liri.js",
+    "rand":"node liri.js do-what-it-says",
+    "twitter": "npm start my-tweets",
+    "spotify": "npm start spotify-this-song",
+    "imdb": "npm start movie-this"
   },
   "repository": {
     "type": "git",
